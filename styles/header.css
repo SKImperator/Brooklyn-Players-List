@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "RocknRoll One", sans-serif;
+}
+header {
+  background-color: #333333;
+  color: white;
+  padding: 5px 10px;
+}
+
+.header-logo {
+  width: 100px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.container {
+  margin-bottom: 5px;
+}
+
+.container-flex {
+  display: flex;
+  align-items: center;
+}
+
+.a-header {
+  padding-top: 10px;
+  padding-right: 5px;
+  text-decoration: none;
+  color: white;
+}
+
+.a-header:hover {
+  color: rgb(163, 162, 162);
+}
